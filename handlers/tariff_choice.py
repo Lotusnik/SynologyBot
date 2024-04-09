@@ -8,7 +8,7 @@ from keyboards.tariff_keyboards import make_row_keyboard
 router = Router()
 
 # Список доступных тарифов
-available_tariff_names = ["Начальный уровень (1500 р.)", "Продвинутый уровень (2500 р.)", "Профессиональный уровень (5000 р.)"]
+available_tariff_names = ["Начальный уровень 1500 р.", "Продвинутый уровень 2500 р.", "Проф.уровень 5000 р."]
 # Список доступных опций
 available_options = ["С обучением", "Без обучения"]
 
